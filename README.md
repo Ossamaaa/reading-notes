@@ -36,7 +36,6 @@ so that's why i encourage my self to do good things.
 
 
 ![successful](https://minutes.co/wp-content/uploads/2019/06/positive-thinking.jpg)
-[my git-hub](https://github.com/Ossamaaa)
 ```
 
 i'm osama al-shararbeh 
@@ -44,3 +43,7 @@ i'm osama al-shararbeh
  from jordan 
 loves food and workouts but i'm lazy actually xD 
 ```
+[Facebook](https://www.facebook.com/o0samaa/)
+
+
+[Instgram](https://www.instagram.com/0.s.a.m.a/)
