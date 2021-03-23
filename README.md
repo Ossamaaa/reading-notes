@@ -41,7 +41,7 @@ so that's why i encourage my self to do good things.
 i'm osama al-shararbeh 
 23 years old 
  from jordan 
-loves food and workouts but i'm lazy actually xD 
+I love food and workouts but i'm lazy actually x'D 
 ```
 [Facebook](https://www.facebook.com/o0samaa/)
 
