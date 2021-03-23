@@ -46,4 +46,4 @@ loves food and workouts but i'm lazy actually xD
 [Facebook](https://www.facebook.com/o0samaa/)
 
 
-[Instgram](https://www.instagram.com/0.s.a.m.a/)
+[Instagram](https://www.instagram.com/0.s.a.m.a/)
