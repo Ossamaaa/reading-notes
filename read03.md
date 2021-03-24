@@ -1,5 +1,5 @@
 
-Version Control is the main system can revisite old versions  of files by recoreding changes ,and compare changes ,and fixed any mistakes easily .
+**Version Control** is the main system can revisite old versions  of files by recoreding changes ,and compare changes ,and fixed any mistakes easily .
  
 (CVCS) allowed to programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control
 
@@ -25,7 +25,7 @@ when you have import existing project  you have created a new subdirectory named
 
 ,,,,
 
- The local Git repository has three components:
+ * The local Git repository has three components:
 
 1. Working Directory: The actual files reside here.
 2. Index: The area used for staging
