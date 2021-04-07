@@ -81,3 +81,22 @@ printer-friendly versions of pages and so on.*
 ```
 
 > Pages can be fixed width or liquid (stretchy) layouts
+
+
+## Declaring function
+
+* creat a function
+* give it name
+* write the statement you want achive it 
+* and taske inside curly braces 
+
+*example* 
+
+```
+function sayBye() {
+
+    document.writ('Bye'!);
+}
+
+```
+> Functions can return more than one value using an array. 
